@@ -2,7 +2,7 @@ package Bucles;
 
 import java.util.Scanner;
 
-public class sumPrimosNNumeros {
+public class factorialNumero {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
@@ -10,14 +10,14 @@ public class sumPrimosNNumeros {
 		System.out.println("Ingresa un numero entero positivo:");
 		int numero = sc.nextInt();
 
-		int suma = 0;
+
+		int factorial = 1;
 
 		for (int i = 1; i <= numero; i++) {
-			suma += i;
+			factorial *= i;
 		}
 
-		System.out.println("La suma de los primeros " + numero + " numeros naturales es: " + suma);
-
+		System.out.println("El factorial de " + numero + " es: " + factorial);
 	}
 
 }
