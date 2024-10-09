@@ -2,7 +2,7 @@ package EstructurasDeControl;
 
 import java.util.Scanner;
 
-public class contDigitosDeNumero {
+public class adivinarNum {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
