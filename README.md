@@ -22,4 +22,4 @@
 
 ## Contacto
 - ✉️ [andreygg300@gmail.com](mailto:andreygg300@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/andreygarcia)
+- 💼 [LinkedIn](https://www.linkedin.com/in/andrey-garcia-garcia-8ba29b302/)
